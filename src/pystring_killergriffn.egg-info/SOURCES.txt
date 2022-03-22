@@ -1,8 +1,0 @@
-README.md
-setup.cfg
-src/pystring/__init__.py
-src/pystring/pystring.py
-src/pystring_killergriffn.egg-info/PKG-INFO
-src/pystring_killergriffn.egg-info/SOURCES.txt
-src/pystring_killergriffn.egg-info/dependency_links.txt
-src/pystring_killergriffn.egg-info/top_level.txt
